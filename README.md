@@ -1,28 +1,137 @@
-<h3>Hi there 👋</h3>
+# Hi 👋, I'm Mukul Yadav
 
-<h2>✨ About Me:</h2> 
+### Senior Full Stack GenAI Developer | MERN Stack Developer | AI Automation Builder
 
-- 🌱 A Passionate Front End developer from India.
-- 🌱 Interested about more stuff related to BlockChain and learn them.
-- 🌱 I’m currently building apps using React Js.
-- 🌱 I’m currently learning MERN stack.
-- 💬 Ask me about Front End Development or any tech-related stuff.
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukul-yadav123&label=Profile%20views&color=0e75b6&style=flat" alt="mukul-yadav123" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mukul-yadav-b81076299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukul-yadav-b81076299" height="30" width="40" /></a>
+<p align="center">
+Building AI Agents, RAG Systems, MCP Servers, Full-Stack SaaS Applications and Enterprise Automations.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" >  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+GenAI+Developer;MERN+Stack+Developer;AI+Agent+Builder;RAG+%26+MCP+Enthusiast;OpenAI+%7C+LangChain+%7C+Next.js" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukul-yadav123&show_icons=true&locale=en&layout=compact" alt="mukul-yadav123" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukul-yadav123&show_icons=true&locale=en" alt="mukul-yadav123" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukul-yadav123&" alt="mukul-yadav123" /></p>
+* 🔭 Working on AI-powered products and business automation systems
+* 🤖 Building AI Agents, MCP Servers, RAG Pipelines and LLM Applications
+* 🌱 Exploring Agentic AI, LangGraph, Memory Systems and Multi-Agent Workflows
+* 💻 Strong focus on Next.js, React, Node.js and scalable backend systems
+* ☁️ Deploying applications on AWS and Linux environments
+* 📚 Always learning and experimenting with emerging AI technologies
+* 💬 Ask me about React, Next.js, Node.js, OpenAI, LangChain, RAG, MCP and System Design
 
+---
 
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/mukul-yadav-b81076299">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:mukuly2002@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+</p>
+
+---
+
+## ⚡ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma,redis" />
+</p>
+
+### AI & GenAI
+
+<p>
+<img src="https://skillicons.dev/icons?i=openai" />
+</p>
+
+OpenAI • LangChain • LangGraph • MCP • RAG • Qdrant • AI Agents • Vector Databases
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,git,github" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mukul-yadav123&theme=tokyonight&margin-w=15&row=2&column=4" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mukul-yadav123&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukul-yadav123&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mukul-yadav123&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mukul-yadav123&theme=tokyo-night" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/mukul-yadav123/mukul-yadav123/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+* AI Agents & Agentic Workflows
+* OpenAI Agent SDK
+* LangGraph
+* MCP Development
+* RAG Systems
+* Enterprise Automation
+* Full Stack SaaS Products
+
+---
+
+## 📌 Featured Areas
+
+* 🤖 Generative AI Applications
+* 📊 Business Automation Systems
+* 🔄 Workflow Orchestration
+* 💬 Conversational AI
+* 📚 Knowledge Base & RAG Solutions
+* ☁️ Cloud Deployments
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mukul-yadav123&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</p>
